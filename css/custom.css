@@ -1,0 +1,35 @@
+body {
+        padding-top: 40px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+.logo{
+	margin-top: 50px;
+	text-align:center;
+}
+.logo img{
+	max-height: 275px;
+}
+.header{
+	height: 100px;
+	background-color: #FFF4A1; 
+	margin-top: -80px;
+}
+.buttonrow{
+	text-align:center;
+	margin-top: 50px;
+	font-size: 1.5em;
+}
+.intro p{
+	font-size: 5em;
+	color: #000;
+	text-align: center;
+	line-height: 2em;
+	margin-top: 40px;
+}
+.footer{
+	height: 100px;
+	background-color: #FFF4A1; 
+	width: 100%;
+	margin-top: 200px;
+
+}
+
