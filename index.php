@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>candytrail</title>
+	<title>candytrail v2</title>
 </head>
 <body>
 
